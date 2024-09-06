@@ -15,7 +15,7 @@ Este proyecto permite cargar usuarios desde un archivo de texto (`usuarios.txt`)
 
 Encuesta predefinida, interactiva con el usuario:
 
-- `scrip.py`: : Script principal que lee el archivo usuarios.txt, convierte los datos en objetos Usuario y los imprime en la consola.
+- `scrip.py`: Script principal que lee el archivo usuarios.txt, convierte los datos en objetos Usuario y los imprime en la consola.
 - `usuario.py`: Define la clase `usuario`, utilizada para crear los objetos de usuario..
 - `usuarios.txt`: Archivo de texto con los datos de los usuarios en formato JSON (uno por línea).
 - `error.log`: : Archivo que registra cualquier error que ocurra durante la ejecución del programa..
